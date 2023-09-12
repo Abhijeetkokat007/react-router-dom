@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(54, 54, 54);
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.name-foot{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+.heding{
+    color:white ;
+    font-size: 25px;
+    font-weight: bolder;
+}
